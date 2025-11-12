@@ -30,7 +30,7 @@
 
   ![login - list view](docs/images/login.png)
   ![Dashboard](docs/images/dashboard.png)
-  ![View results](docs/images/resutmanagement.png)
+  ![View results](docs/images/resultmanagement.png)
   ![Course Management](docs/images/coursemanagement.png)
   ![Course Registration Approvals](docs/images/courseregapprovals.png)
   ![Result Management](docs/images/resultmanagement.png)
