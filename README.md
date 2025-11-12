@@ -1,11 +1,40 @@
 
   # Student Result Management Portal
 
-  This is a code bundle for Student Result Management Portal. The original project is available at https://www.figma.com/design/b3R4KDXLhtUSdXSYuJuhG9/Student-Result-Management-Portal.
+  This repository contains the Student Result Management Portal UI built with React + Vite.
 
-  ## Running the code
+  ## Quick start
 
-  Run `npm i` to install the dependencies.
+  Install dependencies:
 
-  Run `npm run dev` to start the development server.
-  
+  ```bash
+  npm install
+  ```
+
+  Start the dev server:
+
+  ```bash
+  npm run dev
+  ```
+
+  Build for production:
+
+  ```bash
+  npm run build
+  ```
+
+
+
+  ## Screenshots / UI gallery
+
+
+  ![login - list view](docs/images/login.png)
+  ![Dashboard](docs/images/dashboard.png)
+  ![View results](docs/images/resutmanagement.png)
+  ![Course Management](docs/images/coursemanagement.png)
+  ![Course Registration Approvals](docs/images/courseregapprovals.png)
+  ![Result Management](docs/images/resultmanagement.png)
+
+
+
+
